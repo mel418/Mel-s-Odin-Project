@@ -1,0 +1,10 @@
+
+.external {
+    color: white; /*declaration: property; */
+    background-color: red;
+    text-align: center;
+    font-weight: 10px;
+    height: 45px;
+    font-size: 40px;
+  }
+  
