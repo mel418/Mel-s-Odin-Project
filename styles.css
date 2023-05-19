@@ -23,3 +23,15 @@
   font-weight: bold;
   background-color: rgb(150, 255, 110);
 }
+
+.left, .right {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.right {
+  background-color: yellow;
+  color: black;
+}
