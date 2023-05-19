@@ -7,4 +7,19 @@
     height: 45px;
     font-size: 40px;
   }
+
+.oddNumber {
+  background-color: rgb(255, 145, 145);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
   
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: rgb(150, 255, 110);
+}
